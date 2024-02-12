@@ -1,5 +1,4 @@
 # teste
-
 # Titulo 1
 ## titulo 2
 ### titulo 3
@@ -24,4 +23,3 @@ public class Exemplo {
     }
 
 }
-
