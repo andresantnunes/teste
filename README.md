@@ -6,6 +6,8 @@
 **Texto negrito**
 *texto italico*
 
+Texto na branch loja
+
 - lista
 - lista maior
 	- subinte da lista
